@@ -1,3 +1,5 @@
+# Vgg16_face_classifier. Used Vggg16 to extract features for the dataset and videos and predicted the features vectors similarity using cosine similarity.
+# Roi Coordinates is meant to work with the labels taken from your video.
 import cv2
 import csv
 import numpy as np
